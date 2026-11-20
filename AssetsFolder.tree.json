@@ -1,0 +1,128 @@
+[
+    {
+        "Name":  "charte",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "emote",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\emote",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "fx",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\fx",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "fxasset",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\fxasset",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  ".gdignore",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\.gdignore",
+        "Extension":  ".gdignore",
+        "Length":  0
+    },
+    {
+        "Name":  "tree.json",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\tree.json",
+        "Extension":  ".json",
+        "Length":  0
+    },
+    {
+        "Name":  "_report.json",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\_report.json",
+        "Extension":  ".json",
+        "Length":  178889
+    },
+    {
+        "Name":  "AvatarDeco",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\AvatarDeco",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "BombDeco",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\BombDeco",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "CharDeco",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\CharDeco",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "CharDecoAdj",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\CharDecoAdj",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "GradeDeco",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\GradeDeco",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "Icon",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\Icon",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "IDDX",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\IDDX",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "LadderDeco",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\LadderDeco",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "ObjectTable",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\ObjectTable",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "manifest.json",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\manifest.json",
+        "Extension":  ".json",
+        "Length":  632511
+    },
+    {
+        "Name":  "A02_10_0001_0LayerAdjust",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\AvatarDeco\\A02_10_0001_0LayerAdjust",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "A02_10_0001_0LayerStatic",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\AvatarDeco\\A02_10_0001_0LayerStatic",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "A02_10_0001_1LayerAdjust",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\AvatarDeco\\A02_10_0001_1LayerAdjust",
+        "Extension":  "",
+        "Length":  null
+    },
+    {
+        "Name":  "A02_10_0001_1LayerStatic",
+        "FullName":  "C:\\AIProject\\BoomOnLanRenew\\Godot4ClientResource\\Assets\\charte\\AvatarDeco\\A02_10_0001_1LayerStatic",
+        "Extension":  "",
+        "Length":  null
+    }
+]
