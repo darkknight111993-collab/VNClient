@@ -1,0 +1,4001 @@
+{
+ "mask": "0xAE08C3F0",
+ "header": [
+  60,
+  0
+ ],
+ "ships": [
+  {
+   "id": 1,
+   "name": "Ship/Airship",
+   "values": [
+    2,
+    10,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 2,
+   "name": "Ship/Owl",
+   "values": [
+    1,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 3,
+   "name": "Ship/Turtle0",
+   "values": [
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 4,
+   "name": "Ship/Turtle1",
+   "values": [
+    1,
+    9,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 5,
+   "name": "Ship/AirshipBroken",
+   "values": [
+    2,
+    2,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 6,
+   "name": "Ship/Octopus0",
+   "values": [
+    1,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 7,
+   "name": "Ship/Octopus1",
+   "values": [
+    1,
+    9,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 8,
+   "name": "Ship/RailCar",
+   "values": [
+    1,
+    2,
+    10,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 9,
+   "name": "Ship/Chicken",
+   "values": [
+    2,
+    10,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 10,
+   "name": "Ship/Kart",
+   "values": [
+    1,
+    5,
+    10,
+    4,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 11,
+   "name": "Ship/Kart",
+   "values": [
+    1,
+    5,
+    10,
+    4,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 12,
+   "name": "Ship/Tank",
+   "values": [
+    1,
+    5,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 13,
+   "name": "Ship/Larva",
+   "values": [
+    1,
+    5,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 14,
+   "name": "Ship/MonS2Tank",
+   "values": [
+    1,
+    2,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 15,
+   "name": "Ship/MonS2UpgradeTank",
+   "values": [
+    1,
+    7,
+    0,
+    5,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "id": 16,
+   "name": "Ship/Shark",
+   "values": [
+    1,
+    7,
+    0,
+    6,
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "items": [
+  {
+   "code": "Item/ItemBomb",
+   "name": "Item/Bomb",
+   "values": [
+    3650,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemFire",
+   "name": "Item/Fire",
+   "values": [
+    2800,
+    0,
+    1,
+    2,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRoller",
+   "name": "Item/Roller",
+   "values": [
+    2000,
+    0,
+    1,
+    3,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShoe",
+   "name": "Item/Shoe",
+   "values": [
+    150,
+    0,
+    1,
+    4,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemPunch",
+   "name": "Item/Punch",
+   "values": [
+    300,
+    0,
+    1,
+    5,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMaxPower",
+   "name": "Item/MaxPower",
+   "values": [
+    150,
+    0,
+    1,
+    6,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemHollow",
+   "name": "Item/Hollow",
+   "values": [
+    200,
+    0,
+    1,
+    7,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSkeleton0",
+   "name": "Item/Skeleton0",
+   "values": [
+    200,
+    0,
+    1,
+    8,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSkeleton1",
+   "name": "Item/Skeleton1",
+   "values": [
+    200,
+    0,
+    1,
+    9,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMoonWalk",
+   "name": "Item/MoonWalk",
+   "values": [
+    0,
+    0,
+    1,
+    10,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSuperMan",
+   "name": "Item/SuperMan",
+   "values": [
+    0,
+    0,
+    1,
+    11,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemGreenDevil",
+   "name": "Item/GreenDevil",
+   "values": [
+    0,
+    0,
+    1,
+    12,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRandomBox",
+   "name": "Item/RandomBox",
+   "values": [
+    0,
+    0,
+    1,
+    13,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemLifeItem",
+   "name": "Item/LifeItem",
+   "values": [
+    0,
+    0,
+    1,
+    14,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemSnow",
+   "name": "Item/ItemSnow",
+   "values": [
+    0,
+    0,
+    1,
+    18,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemBlackDevil",
+   "name": "Item/BlackDevil",
+   "values": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSuperStar",
+   "name": "Item/SuperStar",
+   "values": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemHPNeedle",
+   "name": "Item/MonS2Niddle",
+   "values": [
+    0,
+    0,
+    1,
+    27,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemCloneBomber",
+   "name": "Item/CloneBomber",
+   "values": [
+    0,
+    0,
+    1,
+    28,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "GoldFlag",
+   "name": "Item/ItemGoldFlag",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "RuinsSlate",
+   "name": "Item/RuinsSlate",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem00",
+   "name": "Icon/EventItem00",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem01",
+   "name": "Icon/EventItem01",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem02",
+   "name": "Icon/EventItem02",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem03",
+   "name": "Icon/EventItem03",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem04",
+   "name": "Icon/EventItem04",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem05",
+   "name": "Icon/EventItem05",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem06",
+   "name": "Icon/EventItem06",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem07",
+   "name": "Icon/EventItem07",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem08",
+   "name": "Icon/EventItem08",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem09",
+   "name": "Icon/EventItem09",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/EventItem10",
+   "name": "Icon/EventItem10",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemCollectReward",
+   "name": "Icon/ItemCollectReward",
+   "values": [
+    0,
+    0,
+    1,
+    99,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemMonsterStop",
+   "name": "Item/MonsterStop",
+   "values": [
+    0,
+    0,
+    3,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemAirship",
+   "name": "Item/Airship",
+   "values": [
+    150,
+    0,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemOwl",
+   "name": "Item/Owl",
+   "values": [
+    350,
+    0,
+    2,
+    2,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemTurtle0",
+   "name": "Item/Turtle0",
+   "values": [
+    340,
+    0,
+    2,
+    3,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemTurtle1",
+   "name": "Item/Turtle1",
+   "values": [
+    60,
+    0,
+    2,
+    4,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemAirshipBroken",
+   "name": "Item/AirshipBroken",
+   "values": [
+    70,
+    0,
+    2,
+    5,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemOctopus0",
+   "name": "Item/Octopus0",
+   "values": [
+    0,
+    0,
+    2,
+    6,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemOctopus1",
+   "name": "Item/Octopus1",
+   "values": [
+    0,
+    0,
+    2,
+    7,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRailCar",
+   "name": "Item/RailCar",
+   "values": [
+    0,
+    0,
+    2,
+    8,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Chicken",
+   "name": "Item/Chicken",
+   "values": [
+    0,
+    0,
+    2,
+    9,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemKart",
+   "name": "Item/Kart",
+   "values": [
+    0,
+    0,
+    2,
+    11,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemKart0",
+   "name": "Item/Kart",
+   "values": [
+    0,
+    0,
+    2,
+    11,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Tank",
+   "name": "Item/Tank",
+   "values": [
+    0,
+    0,
+    2,
+    12,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Larva",
+   "name": "Item/Larva",
+   "values": [
+    0,
+    0,
+    2,
+    13,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "MonS2Tank",
+   "name": "Item/WaterTank1",
+   "values": [
+    0,
+    0,
+    2,
+    14,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "MonS2UpgradeTank",
+   "name": "Item/WaterTank2",
+   "values": [
+    0,
+    0,
+    2,
+    15,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Shark",
+   "name": "Item/Shark",
+   "values": [
+    0,
+    0,
+    2,
+    16,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciBronze",
+   "name": "Item/CoinBronze",
+   "values": [
+    800,
+    0,
+    99,
+    10,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciSilver",
+   "name": "Item/CoinSilver",
+   "values": [
+    1100,
+    0,
+    99,
+    20,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciGold",
+   "name": "Item/CoinGold",
+   "values": [
+    250,
+    0,
+    99,
+    50,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketBronze",
+   "name": "Item/CoinPocketBronze",
+   "values": [
+    30,
+    0,
+    99,
+    100,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketSilver",
+   "name": "Item/CoinPocketSilver",
+   "values": [
+    30,
+    0,
+    99,
+    200,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketGold",
+   "name": "Item/CoinPocketGold",
+   "values": [
+    15,
+    0,
+    99,
+    500,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketGoldEx",
+   "name": "Item/CoinPocketGoldEx",
+   "values": [
+    0,
+    0,
+    99,
+    500,
+    -1,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocket333",
+   "name": "Item/CoinPocketGoldSpecial",
+   "values": [
+    0,
+    0,
+    99,
+    333,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketXmas",
+   "name": "Item/CoinPocketGoldXmas",
+   "values": [
+    0,
+    0,
+    99,
+    500,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketSpecial",
+   "name": "Item/CoinPocketGoldSpecial",
+   "values": [
+    0,
+    0,
+    99,
+    1000,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciPocketRandom",
+   "name": "Item/CoinPocketRandom",
+   "values": [
+    0,
+    0,
+    99,
+    2000,
+    -1,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LucciSnowRandom",
+   "name": "Item/CoinSnowRandom",
+   "values": [
+    0,
+    0,
+    99,
+    2000,
+    -1,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AIBattleReward",
+   "name": "Item/AIBattleReward",
+   "values": [
+    0,
+    0,
+    96,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AIBattleEventNpcReward",
+   "name": "Item/AIBattleEventReward",
+   "values": [
+    0,
+    0,
+    80,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusMapReward",
+   "name": "Item/BonusMapReward",
+   "values": [
+    0,
+    0,
+    93,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusMapReward2",
+   "name": "Item/BonusMapReward2",
+   "values": [
+    0,
+    0,
+    106,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusMapReward3",
+   "name": "Item/BonusMapReward3",
+   "values": [
+    0,
+    0,
+    108,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusMapReward4",
+   "name": "Item/BonusMapReward4",
+   "values": [
+    0,
+    0,
+    110,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusMapSweetCandy",
+   "name": "Item/BonusMapSweetCandy",
+   "values": [
+    0,
+    0,
+    109,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "MonsterEventNpcReward",
+   "name": "Item/MonsterEventReward",
+   "values": [
+    0,
+    0,
+    80,
+    2,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusBigReward",
+   "name": "Item/BonusBigReward",
+   "values": [
+    0,
+    0,
+    91,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusBigReward02",
+   "name": "Item/BonusBigReward02",
+   "values": [
+    0,
+    0,
+    91,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BigMonsterReward",
+   "name": "Item/BigMonsterReward",
+   "values": [
+    0,
+    0,
+    80,
+    3,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "DarkEventReward",
+   "name": "Item/DarkEventReward",
+   "values": [
+    0,
+    0,
+    80,
+    4,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "RPGCollectItem",
+   "name": "Item/RPGCollectItem",
+   "values": [
+    0,
+    0,
+    89,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "PharaohReward",
+   "name": "Item/NpcRewardBox00",
+   "values": [
+    0,
+    0,
+    80,
+    5,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "FortuneStarReward",
+   "name": "Item/AIBattleEventReward",
+   "values": [
+    0,
+    0,
+    80,
+    7,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "StalkerReward",
+   "name": "Item/StokerBox",
+   "values": [
+    0,
+    0,
+    80,
+    8,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "GolemRunRewardA",
+   "name": "Item/NpcRewardBox00",
+   "values": [
+    0,
+    0,
+    80,
+    6,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "GolemRunRewardB",
+   "name": "Item/NpcRewardBox01",
+   "values": [
+    0,
+    0,
+    80,
+    6,
+    1,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "GolemRunRewardC",
+   "name": "Item/NpcRewardBox02",
+   "values": [
+    0,
+    0,
+    80,
+    6,
+    2,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "GolemRunRewardD",
+   "name": "Item/NpcRewardBox03",
+   "values": [
+    0,
+    0,
+    80,
+    6,
+    3,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AntarcticRewardA",
+   "name": "Item/NpcRewardBox00",
+   "values": [
+    0,
+    0,
+    80,
+    10,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AntarcticRewardB",
+   "name": "Item/NpcRewardBox01",
+   "values": [
+    0,
+    0,
+    80,
+    10,
+    1,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AntarcticRewardC",
+   "name": "Item/NpcRewardBox02",
+   "values": [
+    0,
+    0,
+    80,
+    10,
+    2,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AntarcticRewardD",
+   "name": "Item/NpcRewardBox03",
+   "values": [
+    0,
+    0,
+    80,
+    10,
+    3,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "MonSeason2BossReward",
+   "name": "Item/MonS2BossReward",
+   "values": [
+    0,
+    0,
+    80,
+    9,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusLargeGourd00A",
+   "name": "Item/TreasuredChest00",
+   "values": [
+    0,
+    0,
+    101,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusLargeGourd00B",
+   "name": "Item/TreasuredChest00",
+   "values": [
+    0,
+    0,
+    101,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusLargeGourd01",
+   "name": "Item/TreasuredChest01",
+   "values": [
+    0,
+    0,
+    102,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "PresentBoxEvent",
+   "name": "Item/EventBox",
+   "values": [
+    0,
+    0,
+    104,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "NpcCaptainReward",
+   "name": "Item/WhiteAngelBox",
+   "values": [
+    0,
+    0,
+    107,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "SantaReward",
+   "name": "Item/SantaBox",
+   "values": [
+    0,
+    0,
+    80,
+    8,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AIBattleQuestReward",
+   "name": "Item/AIBattleReward",
+   "values": [
+    0,
+    0,
+    94,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "AIBattleQuestNote",
+   "name": "Item/note",
+   "values": [
+    0,
+    0,
+    94,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "TreasureBronze",
+   "name": "Item/CoinBronze",
+   "values": [
+    0,
+    0,
+    97,
+    10,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "TreasureSilver",
+   "name": "Item/CoinSilver",
+   "values": [
+    0,
+    0,
+    97,
+    20,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "TreasureGold",
+   "name": "Item/CoinGold",
+   "values": [
+    0,
+    0,
+    97,
+    50,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "TreasurePocketBronze",
+   "name": "Item/CoinPocketBronze",
+   "values": [
+    0,
+    0,
+    97,
+    100,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "TreasurePocketSilver",
+   "name": "Item/CoinPocketSilver",
+   "values": [
+    0,
+    0,
+    97,
+    200,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "TreasurePocketGold",
+   "name": "Item/CoinPocketGold",
+   "values": [
+    0,
+    0,
+    97,
+    500,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet01",
+   "name": "Item/Alphabet_01",
+   "values": [
+    0,
+    0,
+    98,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet02",
+   "name": "Item/Alphabet_02",
+   "values": [
+    0,
+    0,
+    98,
+    2,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet03",
+   "name": "Item/Alphabet_03",
+   "values": [
+    0,
+    0,
+    98,
+    3,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet04",
+   "name": "Item/Alphabet_04",
+   "values": [
+    0,
+    0,
+    98,
+    4,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet05",
+   "name": "Item/Alphabet_05",
+   "values": [
+    0,
+    0,
+    98,
+    5,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet06",
+   "name": "Item/Alphabet_06",
+   "values": [
+    0,
+    0,
+    98,
+    6,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet07",
+   "name": "Item/Alphabet_07",
+   "values": [
+    0,
+    0,
+    98,
+    7,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet08",
+   "name": "Item/Alphabet_08",
+   "values": [
+    0,
+    0,
+    98,
+    8,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet09",
+   "name": "Item/Alphabet_09",
+   "values": [
+    0,
+    0,
+    98,
+    9,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet10",
+   "name": "Item/Alphabet_10",
+   "values": [
+    0,
+    0,
+    98,
+    10,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Alphabet11",
+   "name": "Item/Alphabet_11",
+   "values": [
+    0,
+    0,
+    98,
+    11,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "RedDevil",
+   "name": "Item/RedDevil",
+   "values": [
+    80,
+    0,
+    1,
+    4,
+    15,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Skate",
+   "name": "Item/Skate",
+   "values": [
+    0,
+    0,
+    1,
+    15,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Camouflage",
+   "name": "Item/Mask",
+   "values": [
+    0,
+    0,
+    1,
+    19,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemDart",
+   "name": "Item/Dart",
+   "values": [
+    0,
+    3,
+    21,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemOxygen",
+   "name": "Item/Oxygen",
+   "values": [
+    0,
+    1,
+    22,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNiddle",
+   "name": "Item/Niddle",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemScanner",
+   "name": "Item/Scanner",
+   "values": [
+    0,
+    1,
+    24,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemPotion",
+   "name": "Item/Potion",
+   "values": [
+    0,
+    3,
+    25,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Spring",
+   "name": "Item/Spring",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Drill",
+   "name": "Item/Drill",
+   "values": [
+    0,
+    3,
+    27,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "RemoteBomb",
+   "name": "Item/RadioBomb",
+   "values": [
+    0,
+    3,
+    28,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShield",
+   "name": "Item/Shield",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSensor",
+   "name": "Item/Sensor",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Nitro",
+   "name": "Item/Nitro",
+   "values": [
+    0,
+    3,
+    31,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemFuel",
+   "name": "Item/ItemEnergy",
+   "values": [
+    0,
+    1,
+    32,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "HollowBomb",
+   "name": "Item/HollowBomb",
+   "values": [
+    0,
+    3,
+    33,
+    16,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Goggle",
+   "name": "Item/Swimming",
+   "values": [
+    0,
+    0,
+    1,
+    17,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCookieRoller",
+   "name": "Item/CookieRoller",
+   "values": [
+    0,
+    1,
+    34,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemFakeHedgehog",
+   "name": "Item/FakeHedgehog",
+   "values": [
+    0,
+    10,
+    41,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSuperHedgehog",
+   "name": "Item/SuperHedgehog",
+   "values": [
+    0,
+    1,
+    42,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCpNiddle",
+   "name": "Item/ItemCpNiddle",
+   "values": [
+    0,
+    1,
+    45,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle1",
+   "name": "Item/ItemSJNeedle1",
+   "values": [
+    0,
+    1,
+    46,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle2",
+   "name": "Item/ItemSJNeedle2",
+   "values": [
+    0,
+    1,
+    46,
+    1,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle3",
+   "name": "Item/ItemSJNeedle3",
+   "values": [
+    0,
+    1,
+    46,
+    2,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle4",
+   "name": "Item/ItemSJNeedle4",
+   "values": [
+    0,
+    1,
+    46,
+    3,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle5",
+   "name": "Item/ItemSJNeedle5",
+   "values": [
+    0,
+    1,
+    46,
+    4,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle6",
+   "name": "Item/ItemSJNeedle6",
+   "values": [
+    0,
+    1,
+    46,
+    5,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSJNeedle7",
+   "name": "Item/ItemSJNeedle7",
+   "values": [
+    0,
+    1,
+    46,
+    6,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCokeNeedle",
+   "name": "Item/ItemCokeNeedle",
+   "values": [
+    0,
+    1,
+    46,
+    7,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedle_Bazzi",
+   "name": "Item/ItemNeedle_Bazzi",
+   "values": [
+    0,
+    1,
+    46,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedle_Marid",
+   "name": "Item/ItemNeedle_Marid",
+   "values": [
+    0,
+    1,
+    46,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedle_Uni",
+   "name": "Item/ItemNeedle_Uni",
+   "values": [
+    0,
+    1,
+    46,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRescueCoin",
+   "name": "Item/ItemRescueCoin",
+   "values": [
+    0,
+    1,
+    47,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedleG",
+   "name": "Item/NeedleG",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSensorG",
+   "name": "Item/SensorG",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "SpringG",
+   "name": "Item/SpringG",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "RemoteBombG",
+   "name": "Item/RadioBombG",
+   "values": [
+    0,
+    3,
+    28,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinseng",
+   "name": "Item/ItemWildGinseng",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ResurrectionItem",
+   "name": "Item/ResurrectionItem",
+   "values": [
+    0,
+    1,
+    49,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ResurrectionItemAIBattle",
+   "name": "Item/ResurrectionItemAIBattle",
+   "values": [
+    0,
+    1,
+    49,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemTeamShield",
+   "name": "Item/TeamShield",
+   "values": [
+    0,
+    1,
+    51,
+    5000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMyriadGinseng",
+   "name": "Item/ItemMyriadGinseng",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSnowSensor",
+   "name": "Item/ItemSnowSensor",
+   "values": [
+    0,
+    99,
+    52,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemAutoShield",
+   "name": "Item/ItemAutoShield",
+   "values": [
+    0,
+    2,
+    53,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCoupleAutoShield",
+   "name": "Item/ItemCoupleAutoShield",
+   "values": [
+    0,
+    1,
+    54,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedleC",
+   "name": "Item/NeedleC",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShieldC",
+   "name": "Item/ShieldC",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRescueCoinC",
+   "name": "Item/ItemRescueCoinC",
+   "values": [
+    0,
+    1,
+    47,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSensorC",
+   "name": "Item/SensorC",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "SpringC",
+   "name": "Item/SpringC",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinsengC",
+   "name": "Item/ItemWildGinsengC",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemDartC",
+   "name": "Item/DartC",
+   "values": [
+    0,
+    3,
+    21,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMyriadGinsengC",
+   "name": "Item/ItemMyriadGinsengC",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemTeamShieldC",
+   "name": "Item/TeamShieldC",
+   "values": [
+    0,
+    1,
+    51,
+    5000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSnowSensorC",
+   "name": "Item/ItemSnowSensorC",
+   "values": [
+    0,
+    99,
+    52,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemAutoShieldC",
+   "name": "Item/ItemAutoShieldC",
+   "values": [
+    0,
+    2,
+    53,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemJavelin",
+   "name": "Item/ItemJavelin",
+   "values": [
+    0,
+    3,
+    55,
+    50,
+    65,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedleSP",
+   "name": "Item/NeedleSP",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShieldSP",
+   "name": "Item/ShieldSP",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRescueCoinSP",
+   "name": "Item/ItemRescueCoinSP",
+   "values": [
+    0,
+    1,
+    47,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSensorSP",
+   "name": "Item/SensorSP",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "SpringSP",
+   "name": "Item/SpringSP",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinsengSP",
+   "name": "Item/ItemWildGinsengSP",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemDartSP",
+   "name": "Item/DartSP",
+   "values": [
+    0,
+    3,
+    21,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedleFD",
+   "name": "Item/NeedleFD",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShieldFD",
+   "name": "Item/ShieldFD",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSpringFD",
+   "name": "Item/SpringFD",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSensorFD",
+   "name": "Item/SensorFD",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinsengFD",
+   "name": "Item/ItemWildGinsengFD",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemDartFD",
+   "name": "Item/DartFD",
+   "values": [
+    0,
+    3,
+    21,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCanFD",
+   "name": "Item/CanFD",
+   "values": [
+    0,
+    1,
+    12,
+    4,
+    3,
+    7,
+    6,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSpannerFD",
+   "name": "Item/SpannerFD",
+   "values": [
+    0,
+    1,
+    12,
+    1,
+    5,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemScannerFD",
+   "name": "Item/ScannerFD",
+   "values": [
+    0,
+    1,
+    24,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemPotionFD",
+   "name": "Item/PotionFD",
+   "values": [
+    0,
+    3,
+    25,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMotorFD",
+   "name": "Item/MotorFD",
+   "values": [
+    0,
+    1,
+    13,
+    8,
+    9,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNitroFD",
+   "name": "Item/NitroFD",
+   "values": [
+    0,
+    3,
+    31,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemFuelFD",
+   "name": "Item/ItemEnergyFD",
+   "values": [
+    0,
+    1,
+    32,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSuperHedgehogFD",
+   "name": "Item/SuperHedgehogFD",
+   "values": [
+    0,
+    1,
+    42,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemFakeHedgehogFD",
+   "name": "Item/FakeHedgehogFD",
+   "values": [
+    0,
+    10,
+    41,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemBond",
+   "name": "Item/Bond",
+   "values": [
+    0,
+    3,
+    11,
+    1,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemTrap",
+   "name": "Item/Trap",
+   "values": [
+    0,
+    2,
+    11,
+    2,
+    1,
+    1,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Pin",
+   "name": "Item/Pushpin",
+   "values": [
+    0,
+    3,
+    11,
+    4,
+    0,
+    1,
+    1,
+    0
+   ]
+  },
+  {
+   "code": "Banana1",
+   "name": "Item/Banana00",
+   "values": [
+    0,
+    1,
+    11,
+    3,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "code": "Banana2",
+   "name": "Item/Banana01",
+   "values": [
+    0,
+    2,
+    11,
+    3,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "code": "Banana3",
+   "name": "Item/Banana02",
+   "values": [
+    0,
+    3,
+    11,
+    3,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "code": "Banana8",
+   "name": "Item/Banana03",
+   "values": [
+    0,
+    8,
+    11,
+    3,
+    0,
+    0,
+    1,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemSpanner",
+   "name": "Item/Spanner",
+   "values": [
+    0,
+    1,
+    12,
+    1,
+    5,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMonS2Spanner",
+   "name": "Item/MonS2Spanner",
+   "values": [
+    0,
+    3,
+    12,
+    15,
+    14,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCan",
+   "name": "Item/Can",
+   "values": [
+    0,
+    1,
+    12,
+    4,
+    3,
+    7,
+    6,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemMotor",
+   "name": "Item/Motor",
+   "values": [
+    0,
+    1,
+    13,
+    8,
+    9,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCanG",
+   "name": "Item/CanG",
+   "values": [
+    0,
+    1,
+    12,
+    4,
+    3,
+    7,
+    6,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemCanC",
+   "name": "Item/CanC",
+   "values": [
+    0,
+    1,
+    12,
+    4,
+    3,
+    7,
+    6,
+    0
+   ]
+  },
+  {
+   "code": "QuestionMark",
+   "name": "Item/QuestionMark",
+   "values": [
+    0,
+    0,
+    1,
+    21,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Basket00",
+   "name": "Item/Basket00",
+   "values": [
+    0,
+    0,
+    4,
+    22,
+    99,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "MarblePot00",
+   "name": "Item/ItemPot",
+   "values": [
+    0,
+    0,
+    4,
+    30,
+    999,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "BonusMapKey",
+   "name": "Item/BonusMapKey",
+   "values": [
+    0,
+    0,
+    1,
+    24,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "LiquidMedicine",
+   "name": "Item/LiquidMedicine",
+   "values": [
+    0,
+    0,
+    1,
+    25,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemClover",
+   "name": "Item/ItemClover",
+   "values": [
+    0,
+    0,
+    1,
+    26,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemExpBronze",
+   "name": "Item/ItemExpBronze",
+   "values": [
+    0,
+    0,
+    100,
+    10,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemExpSilver",
+   "name": "Item/ItemExpSilver",
+   "values": [
+    0,
+    0,
+    100,
+    20,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemExpGold",
+   "name": "Item/ItemExpGold",
+   "values": [
+    0,
+    0,
+    100,
+    30,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemCpGold",
+   "name": "Item/CApointAni",
+   "values": [
+    0,
+    0,
+    103,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "ItemCpPocket",
+   "name": "Item/CApointPocket",
+   "values": [
+    0,
+    0,
+    103,
+    3,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "NeedleRPG",
+   "name": "Item/NeedleRPG",
+   "values": [
+    0,
+    9999,
+    23,
+    0,
+    0,
+    0,
+    1000,
+    0
+   ]
+  },
+  {
+   "code": "ResurrectionItemRPG",
+   "name": "Item/ResurrectionItemRPG",
+   "values": [
+    0,
+    9999,
+    49,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinsengRPG",
+   "name": "Item/ItemWildGinsengRPG",
+   "values": [
+    0,
+    9999,
+    48,
+    0,
+    0,
+    0,
+    30000,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRescueCoinRPG",
+   "name": "Item/ItemRescueCoinRPG",
+   "values": [
+    0,
+    9999,
+    47,
+    0,
+    0,
+    0,
+    1000,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemStrengthPotionRPGType1Lv1",
+   "name": "Item/ItemStrengthPotionRPGType1Lv1",
+   "values": [
+    0,
+    9999,
+    50,
+    250,
+    0,
+    0,
+    17000,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemStrengthPotionRPGType1Lv2",
+   "name": "Item/ItemStrengthPotionRPGType1Lv2",
+   "values": [
+    0,
+    9999,
+    50,
+    350,
+    0,
+    0,
+    17000,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemStrengthPotionRPGType1Lv3",
+   "name": "Item/ItemStrengthPotionRPGType1Lv3",
+   "values": [
+    0,
+    9999,
+    50,
+    500,
+    0,
+    0,
+    17000,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemStrengthPotionRPGType1Lv4",
+   "name": "Item/ItemStrengthPotionRPGType1Lv4",
+   "values": [
+    0,
+    9999,
+    50,
+    700,
+    0,
+    0,
+    17000,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemStrengthPotionRPGType2Lv1",
+   "name": "Item/ItemStrengthPotionRPGType2Lv1",
+   "values": [
+    0,
+    9999,
+    50,
+    0,
+    50,
+    0,
+    100,
+    0
+   ]
+  },
+  {
+   "code": "DrillRPG",
+   "name": "Item/DrillRPG",
+   "values": [
+    0,
+    4,
+    27,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedleE",
+   "name": "Item/ItemNeedleE",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemNeedleL",
+   "name": "Item/ItemNeedleL",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRescueCoinE",
+   "name": "Item/ItemRescueCoinE",
+   "values": [
+    0,
+    1,
+    47,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemRescueCoinL",
+   "name": "Item/ItemRescueCoinL",
+   "values": [
+    0,
+    1,
+    47,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinsengE",
+   "name": "Item/ItemWildGinsengE",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemWildGinsengL",
+   "name": "Item/ItemWildGinsengL",
+   "values": [
+    0,
+    1,
+    48,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShieldE",
+   "name": "Item/ShieldE",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/ItemShieldL",
+   "name": "Item/ShieldL",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/GolemKey",
+   "name": "Item/GolemKey",
+   "values": [
+    0,
+    0,
+    79,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Skill00",
+   "name": "Item/SkillDirBomb",
+   "values": [
+    0,
+    1,
+    60,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Skill01",
+   "name": "Item/SkillNuclear",
+   "values": [
+    0,
+    2,
+    60,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Skill02",
+   "name": "Item/SkillCrossBomb",
+   "values": [
+    0,
+    3,
+    60,
+    2,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "SkillSnow00",
+   "name": "Item/ItemBigSnowBall",
+   "values": [
+    0,
+    99,
+    60,
+    3,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "SkillThrowNuclearBomb",
+   "name": "Item/MonS2SkillNuclear",
+   "values": [
+    0,
+    1,
+    60,
+    4,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo01",
+   "name": "Icon/BingGo01",
+   "values": [
+    0,
+    0,
+    105,
+    1,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo02",
+   "name": "Icon/BingGo02",
+   "values": [
+    0,
+    0,
+    105,
+    2,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo03",
+   "name": "Icon/BingGo03",
+   "values": [
+    0,
+    0,
+    105,
+    3,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo04",
+   "name": "Icon/BingGo04",
+   "values": [
+    0,
+    0,
+    105,
+    4,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo05",
+   "name": "Icon/BingGo05",
+   "values": [
+    0,
+    0,
+    105,
+    5,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo06",
+   "name": "Icon/BingGo06",
+   "values": [
+    0,
+    0,
+    105,
+    6,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo07",
+   "name": "Icon/BingGo07",
+   "values": [
+    0,
+    0,
+    105,
+    7,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo08",
+   "name": "Icon/BingGo08",
+   "values": [
+    0,
+    0,
+    105,
+    8,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo09",
+   "name": "Icon/BingGo09",
+   "values": [
+    0,
+    0,
+    105,
+    9,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo10",
+   "name": "Icon/BingGo10",
+   "values": [
+    0,
+    0,
+    105,
+    10,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo11",
+   "name": "Icon/BingGo11",
+   "values": [
+    0,
+    0,
+    105,
+    11,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/BingGo12",
+   "name": "Icon/BingGo12",
+   "values": [
+    0,
+    0,
+    105,
+    12,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/ItemNiddlePlus",
+   "name": "Item/ItemNiddleplus",
+   "values": [
+    0,
+    2,
+    23,
+    0,
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "code": "Item/ShieldPlus",
+   "name": "Item/Shieldplus",
+   "values": [
+    0,
+    3,
+    29,
+    2000,
+    1000,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "code": "Item/WinningNeedle",
+   "name": "Item/WinningNeedle",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningShield",
+   "name": "Item/WinningShield",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningDart",
+   "name": "Item/WinningDart",
+   "values": [
+    0,
+    3,
+    21,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningScanner",
+   "name": "Item/WinningScanner",
+   "values": [
+    0,
+    1,
+    24,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningSpring",
+   "name": "Item/WinningSpring",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningSensor",
+   "name": "Item/WinningSensor",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningNeedleC",
+   "name": "Item/WinningNeedleC",
+   "values": [
+    0,
+    1,
+    23,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningShieldC",
+   "name": "Item/WinningShieldC",
+   "values": [
+    0,
+    2,
+    29,
+    2000,
+    1000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningDartC",
+   "name": "Item/WinningDartC",
+   "values": [
+    0,
+    3,
+    21,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningScannerC",
+   "name": "Item/WinningScannerC",
+   "values": [
+    0,
+    1,
+    24,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningSpringC",
+   "name": "Item/WinningSpringC",
+   "values": [
+    0,
+    3,
+    26,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningSensorC",
+   "name": "Item/WinningSensorC",
+   "values": [
+    0,
+    6,
+    30,
+    30000,
+    5000,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/WinningHeart",
+   "name": "Item/WinningHeart",
+   "values": [
+    0,
+    0,
+    111,
+    0,
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "code": "Item/HCHint",
+   "name": "Item/HCHint",
+   "values": [
+    0,
+    1,
+    1000,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/SnowBigBall",
+   "name": "Item/ItemBigSnowBall",
+   "values": [
+    0,
+    3,
+    60,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  },
+  {
+   "code": "Item/SnowFastCast",
+   "name": "Item/ItemFastCast",
+   "values": [
+    0,
+    1,
+    113,
+    0,
+    0,
+    0,
+    0,
+    1
+   ]
+  }
+ ]
+}

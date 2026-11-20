@@ -1,0 +1,79 @@
+[
+ {
+  "path": "AvatarDeco/A06_30_0001_0LayerStatic",
+  "offset": 0,
+  "size": 14614,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A06_30_0001_1LayerStatic",
+  "offset": 14614,
+  "size": 11811,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A06_30_0010_0LayerAdjust",
+  "offset": 26425,
+  "size": 3173,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A06_30_0010_0LayerStatic",
+  "offset": 29598,
+  "size": 15013,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A06_30_0010_1LayerAdjust",
+  "offset": 44611,
+  "size": 3262,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A06_30_0010_1LayerStatic",
+  "offset": 47873,
+  "size": 12173,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A10_60_0001_0LayerAdjust",
+  "offset": 60046,
+  "size": 9913,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A10_60_0001_0LayerStatic",
+  "offset": 69959,
+  "size": 3151,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A10_60_0001_1LayerAdjust",
+  "offset": 73110,
+  "size": 9300,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "AvatarDeco/A10_60_0001_1LayerStatic",
+  "offset": 82410,
+  "size": 3246,
+  "mask": 0,
+  "checksum": 0
+ },
+ {
+  "path": "ObjectTable/FxAssetObjectTable",
+  "offset": 85656,
+  "size": 69936,
+  "mask": 1446401064,
+  "checksum": 163582978
+ }
+]

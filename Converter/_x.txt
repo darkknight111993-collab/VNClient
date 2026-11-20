@@ -1,0 +1,45 @@
+import struct,sys,os,zlib,collections
+def load(p):
+    b=open(p,'rb').read()
+    if len(b)>10 and b[8:10]==b'\x78\xda' and struct.unpack('<I',b[:4])[0]==len(zlib.decompress(b[8:])): b=zlib.decompress(b[8:])
+    return b
+def parse(b):
+    nF,ver,nI,_=struct.unpack('<4i',b[:16]); pos=16
+    if ver!=2 or nI>5000 or nF>100000: raise ValueError('hdr')
+    dims=[]
+    for i in range(nI):
+        dims.append(struct.unpack('<2i',b[pos:pos+8])); pos+=8
+    frames=[]
+    for i in range(nF):
+        frames.append(struct.unpack('<12i',b[pos:pos+48])); pos+=48
+    imgs=[]
+    for i in range(nI):
+        sz,=struct.unpack('<I',b[pos:pos+4]); pos+=4
+        imgs.append(b[pos:pos+sz]); pos+=sz
+    return dims,frames,imgs,len(b)-pos
+def decode(data,w,h,stats=None,bpp=3):
+    out=bytearray(w*h*4); x=0;y=0;i=0
+    if not data: return bytes(out),h,0,0
+    ops=collections.Counter()
+    first=data[0]; i=0
+    while i<len(data) and y<h:
+        o=data[i];i+=1
+        if o<0x40:
+            n=o
+            for k in range(n):
+                p=(y*w+x)*4; out[p]=data[i+2];out[p+1]=data[i+1];out[p+2]=data[i];out[p+3]=255;XX
+        elif o<0x80:
+            n=o-0x40; c=data[i:i+3]; i+=3
+            for k in range(n):
+                p=(y*w+x)*4; out[p]=c[2];out[p+1]=c[1];out[p+2]=c[0];out[p+3]=255;x+=1
+        else:
+            n=o&0x3f; x+=n
+            if stats is not None and o>=0xc0: stats['hi%02x'%o]+=1
+        while x>=w and y<h:
+            x-=w; y+=1
+    return bytes(out),y,i,first
+if __name__=='__main__':
+    p=sys.argv[1]
+    b=load(p); d,f,im,rest=parse(b)
+    print(d[:5],f[:3],[len(x) for x in im[:5]],'rest',rest)
+
